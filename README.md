@@ -1,24 +1,20 @@
 # mizan-ui-design
+**Challenge Instruction :**  
+Design the website according to the image given. You may use whatever tools required to finish the project such as bootstrap, tailwinds, bulma.
 
-## Project setup
-```
-npm install
-```
+## How to run the app
+1. Either fork or download the app and open the folder in the cli
+2. Install all dependencies using `yarn` or  `npm i` command
+3. Start the web app using `npm run serve`. The app will be served at `http://localhost:8080/`
+4. Go to `http://localhost:8080/` in your browser
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Dependencies 
+- Vue 2
+- Vuetify
+- Node.js (v16.13.0) (Current version when I developed this challenge)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## What app looks like
 
-### Lints and fixes files
-```
-npm run lint
-```
+![alt text](https://github.com/faridsafwan/mizan-ui-design/blob/master/src/assets/iphone-x%20.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![alt text](https://github.com/faridsafwan/mizan-ui-design/blob/master/src/assets/web-screen.png)
